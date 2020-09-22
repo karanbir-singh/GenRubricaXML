@@ -1,1 +1,1 @@
-# GenRubricaXML
+# RubricaXML
