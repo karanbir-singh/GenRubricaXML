@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rubrica>
+    <Utente>
+        <Nome>Azelio</Nome>
+        <Cognome>Dellucci</Cognome>
+        <Email>AzelioDellucci@armyspy.com</Email>
+        <Numero>0337 7985120</Numero>
+    </Utente>
+    <Utente>
+        <Nome>Giancarlo</Nome>
+        <Cognome>Siciliani</Cognome>
+        <Email>GiancarloSiciliani@rhyta.com</Email>
+        <Numero>0333 3191552</Numero>
+    </Utente>
+    <Utente>
+        <Nome>Beniamino</Nome>
+        <Cognome>Trentini</Cognome>
+        <Email>BeniaminoTrentini@armyspy.com</Email>
+        <Numero>0352 9416282</Numero>
+    </Utente>
+    <Utente>
+        <Nome>Dalia</Nome>
+        <Cognome>Ferrari</Cognome>
+        <Email>DaliaFerrari@rhyta.com</Email>
+        <Numero>0319 5765343</Numero>
+    </Utente>
+</Rubrica>
